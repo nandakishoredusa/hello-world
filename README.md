@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Humans 
+This is chitti robo 2.0
